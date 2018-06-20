@@ -1,7 +1,7 @@
 //logs.js
 const util = require('../../utils/util.js')
 
-Page({
+Page({//Page 是一个页面构造器
   data: {// 参与页面渲染的数据
     logs: []
   },
